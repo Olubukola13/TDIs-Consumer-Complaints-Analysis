@@ -76,9 +76,20 @@ Here are some Excel funtions and techniques i applied during the project.
   - Charts
      - Created charts to present key insights,
 
-  ### Results/Findings
+  ### Outputs 
+  - Visualizations:
+   - Line chart: Complaint trends over time.  
+   - Bar chart: Complaint distribution by product, state, and company.  
+   - Pie chart: Submission modes and their effectiveness.  
 
-  The analysis results are summerized as follows:
+   ### Results/Findings
+   - Most common complaint issues and products.  
+   - Companies with delayed or untimely responses.  
+   - Regions with higher complaint frequencies.
+
+   ### Recommendations
+   - Improve response times for specific products or regions.  
+   - Enhance submission channels to ensure better consumer satisfaction.
 
   
 
