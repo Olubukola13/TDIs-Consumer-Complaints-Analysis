@@ -119,6 +119,12 @@ Here are some Excel funtions and techniques i applied during the project.
      - Since the web submission channel has the highest untimely responses, streamline the process by implementing automated 
        acknowledgment messages for complaints submitted via the web.
      - Allocate more resources to the web team to ensure timely handling of complaints.
+    
+
+
+    
+
+     *Thank you for reading*
   
    
  
