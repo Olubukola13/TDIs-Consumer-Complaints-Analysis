@@ -1,4 +1,4 @@
-#  Consumer Complaint Pattern: Insights and Recommendation for Better Customer Experience
+#  Consumer Complaint Pattern: Insights and Recommendations for Better Customer Experience
 
 ## Project Overview 
 
