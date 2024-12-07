@@ -5,7 +5,10 @@
 This project focuses on analyzing a dataset of consumer complaints to extract meaningful insights and actionable recommendations. By utilizing Microsoft Excel for data cleaning, analysis, and visualization, i aim to address key questions about consumer dissatisfaction, company performance, and customer service efficiency.
 
 
-![My Dashboard](https://github.com/user-attachments/assets/3bb19343-c1ef-46ca-a38b-cb0d8b80666f)
+
+
+![My Dashboard](https://github.com/user-attachments/assets/c55179ff-734c-4b72-b7bd-e7640e9b820b)
+
 
 
 
