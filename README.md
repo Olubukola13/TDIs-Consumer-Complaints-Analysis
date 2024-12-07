@@ -1,4 +1,4 @@
-#  Financial Complaints Detective: Unlocking Insights for Customer Advocacy
+#  Consumer Complaint Pattern: Insights and Recommendation for Better Customer Experience
 
 ## Project Overview 
 
@@ -79,17 +79,42 @@ Here are some Excel funtions and techniques i applied during the project.
   ### Outputs 
   - Visualizations:
    - Line chart: Complaint trends over time.  
-   - Bar chart: Complaint distribution by product, state, and company.  
+   - Bar chart: Complaint distribution by product, issue, and Untimely Company Responses to Consumer Complaints 
+   - Column chart: Complaint distribution by state.
    - Pie chart: Submission modes and their effectiveness.  
 
    ### Results/Findings
-   - Most common complaint issues and products.  
-   - Companies with delayed or untimely responses.  
-   - Regions with higher complaint frequencies.
+   - Consumer complaints increased significantly between the year 2019 to 2022 and later dropped in 2023.
+   - The most common complaint issues is managing an account. 
+   - The product with the highest complaints counts is cheecking account.
+   - The sub product with the highest complaint counts is checking or savings account.
+   - States with higher complaint.
+   - Web submission channel has the highest untimely response.
 
    ### Recommendations
-   - Improve response times for specific products or regions.  
-   - Enhance submission channels to ensure better consumer satisfaction.
+
+  Based on the analysis imrecommend the following actions:
+
+   - Identify specific trends in states with higher complaint volumes and tailor solutions accordingly. Strengthen regional customer service centers to improve accessibility and efficiency.
+     - Collaborate with local branches to address state-specific challenges proactively. Addressing the 2019–2022 Complaint Spike.
+    
+   - Conduct a root cause analysis of complaints related to checking and savings accounts.
+     - Enhance training for frontline staff to address common issues tied to these products.
+     - Offer additional support channels, such as live chat or priority service, for customers experiencing account-related challenges.
+     - Improving Service in High-Complaint States
+    
+   - Develop user-friendly guides and tutorials for managing accounts effectively.
+    - Implement robust account management features on digital platforms to minimize issues.
+    - Regularly audit account management services to identify and resolve process inefficiencies.
+
+   - Increasing Awareness and Support for Web Submissions
+     - Since the web submission channel has the highest untimely responses, streamline the process by implementing automated 
+       acknowledgment messages for complaints submitted via the web.
+     - Allocate more resources to the web team to ensure timely handling of complaints.
+  
+   
+ 
+  
 
   
 
