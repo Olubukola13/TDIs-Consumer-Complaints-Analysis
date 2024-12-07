@@ -1,8 +1,8 @@
-#  Consumer Complaint Pattern: Insights and Recommendations for Better Customer Experience
+#  Consumers Complaints Pattern: Insights and Recommendations for Better Customers Experience
 
 ## Project Overview 
 
-This project focuses on analyzing a dataset of consumer complaints to extract meaningful insights and actionable recommendations. By utilizing Microsoft Excel for data cleaning, analysis, and visualization, i aim to address key questions about consumer dissatisfaction, company performance, and customer service efficiency.
+This project focuses on analyzing a dataset of consumers complaints to extract meaningful insights and actionable recommendations. By utilizing Microsoft Excel for data cleaning, analysis, and visualization, I aim to address key questions about consumer dissatisfaction, company performance, and customer service efficiency.
 
 
 
@@ -14,7 +14,7 @@ This project focuses on analyzing a dataset of consumer complaints to extract me
 
 ## Data Source
 
-Consumer Complaints: The primary dataset used for this dataset is the "Consumer_Complaints_xlsx" file containing detailed information about each compplaint made by consumer.
+Consumers Complaints: The primary dataset used for this dataset is the "Consumer_Complaints_xlsx" file containing detailed information about each compplaint made by consumer.
 
 ## Problem Statement
 Consumer complaints provide valuable insights into the challenges faced by customers across different products and sub product. However, organizations often struggle to identify actionable trends due to the volume and complexity of the data. 
@@ -101,7 +101,7 @@ Here are some Excel funtions and techniques i applied during the project.
 
    ### Recommendations
 
-  Based on the analysis imrecommend the following actions:
+  Based on the analysis I recommend the following actions:
 
    - Identify specific trends in states with higher complaint volumes and tailor solutions accordingly. Strengthen regional customer service centers to improve accessibility and efficiency.
      - Collaborate with local branches to address state-specific challenges proactively. Addressing the 2019–2022 Complaint Spike.
