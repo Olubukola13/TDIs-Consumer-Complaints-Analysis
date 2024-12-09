@@ -94,9 +94,9 @@ Here are some Excel funtions and techniques i applied during the project.
    ### Results/Findings
    - Consumer complaints increased significantly between the year 2019 to 2022 and later dropped in 2023.
    - The most common complaint issues is managing an account. 
-   - The product with the highest complaints counts is cheecking account.
+   - The product with the highest complaints counts is checking account.
    - The sub product with the highest complaint counts is checking or savings account.
-   - States with higher complaint.
+   - State with highest complaint counts is California.
    - Web submission channel has the highest untimely response.
 
    ### Recommendations
