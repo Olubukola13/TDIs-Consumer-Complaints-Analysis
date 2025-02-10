@@ -33,7 +33,7 @@ This project aims to analyze consumer complaint data to uncover trends, evaluate
 - GitHub: For project documentation and sharing.
 
 ## Data Cleanining/Preparation
-In the initial data preparation phase, i perform the following tasks:
+In the initial data preparation phase, I perform the following tasks:
 1. Load the dataset into Excel.
 2. Clean and preprocess the data (e.g format dates, handle missing values).
 3. Perform exploratory data analysis using PivotTables, charts, and formulas.
@@ -47,7 +47,7 @@ EDA involved exploring the consumer complaints data to answer key question, such
 - What is the overall trend in consumer complaint by year?
 - What is the common issue faced by consumers?
 - Which states has the highest number of complaint?
-- Which product ha sthe highest complaint?
+- Which product has the highest complaint?
 
 ## 1. Data Analysis
 
